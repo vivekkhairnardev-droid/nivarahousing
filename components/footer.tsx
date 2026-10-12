@@ -187,7 +187,7 @@ export function Footer() {
         {/* Legal Disclaimer & Copyright */}
         <div className="mt-6 pt-4 border-t border-zinc-800/50 flex flex-col sm:flex-row items-center justify-between gap-2 text-zinc-500 text-[11px]">
           <p>
-            © {new Date().getFullYear()} Nivara Home Finance Limited. All Rights Reserved. Registered with National Housing Bank (NHB).
+            © 2026 Nivara Home Finance Limited. All Rights Reserved. Registered with National Housing Bank (NHB).
           </p>
           <p>
             Loans are granted at the sole discretion of Nivara Home Finance Limited. Terms & conditions apply.
